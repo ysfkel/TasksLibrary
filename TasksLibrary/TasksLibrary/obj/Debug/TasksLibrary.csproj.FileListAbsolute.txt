@@ -1,0 +1,6 @@
+c:\users\shelterdeveloper\documents\visual studio 2013\Projects\TasksLibrary\TasksLibrary\bin\Debug\TasksLibrary.exe.config
+c:\users\shelterdeveloper\documents\visual studio 2013\Projects\TasksLibrary\TasksLibrary\bin\Debug\TasksLibrary.exe
+c:\users\shelterdeveloper\documents\visual studio 2013\Projects\TasksLibrary\TasksLibrary\bin\Debug\TasksLibrary.pdb
+c:\users\shelterdeveloper\documents\visual studio 2013\Projects\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.csprojResolveAssemblyReference.cache
+c:\users\shelterdeveloper\documents\visual studio 2013\Projects\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.exe
+c:\users\shelterdeveloper\documents\visual studio 2013\Projects\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.pdb
